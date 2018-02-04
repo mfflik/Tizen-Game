@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:tizen="http://tizen.org/ns/widgets" id="http://MFF/CatchStar" version="1.0.0" height="360" width="360" viewmodes="maximized">
+    <tizen:application id="sQ34C9gV2f.CatchStar" package="sQ34C9gV2f" required_version="2.3.2" ambient_support="disable"/>
+    <author email="muh.fauzan.f@gmail.com">M Fauzan F</author>
+    <tizen:category name="http://tizen.org/category/wearable_clock"/>
+    <content src="index.html"/>
+    <description>Classic Game &#xD;
+CatchStar &#xD;
+Play just Rotation the bezel and get the highscore</description>
+    <feature name="tizen.org/feature/input.rotating_bezel"/>
+    <feature name="tizen.org/feature/screen.size.normal.320.480"/>
+    <icon src="icon-256.png"/>
+    <name>CatchStar</name>
+    <tizen:profile name="wearable"/>
+    <tizen:setting background-support="disable" encryption="disable" hwkey-event="enable"/>
+</widget>
